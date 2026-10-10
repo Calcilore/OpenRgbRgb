@@ -1,0 +1,41 @@
+Configs: {
+	OpenRgbRgbModConfig: {
+		EnableOpenRgb: {
+			Tooltip: ""
+			Label: Enable Open Rgb
+		}
+
+		Headers: {
+			General: General
+			DeviceProfile: Device Profile
+			Connection: Connection
+		}
+
+		DisplayName: Open Rgb Rgb Mod Config
+
+		RedMultiplier: {
+			Label: Red Multiplier
+			Tooltip: ""
+		}
+
+		GreenMultiplier: {
+			Label: Green Multiplier
+			Tooltip: ""
+		}
+
+		BlueMultiplier: {
+			Label: Blue Multiplier
+			Tooltip: ""
+		}
+
+		Ip: {
+			Label: Ip
+			Tooltip: ""
+		}
+
+		Port: {
+			Label: Port
+			Tooltip: ""
+		}
+	}
+}

@@ -1,0 +1,4 @@
+displayName = OpenRGB RGB
+author = Calcilore
+version = 0.1
+side = Client
